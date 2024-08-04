@@ -223,9 +223,9 @@ Webコンテンツの伝送に用いられるHTTPで、サーバからクライ�
 **行数が多く読みにくい場合は改行とインデントも使う。
  ```java
 {
-"key1":"value1",
-"key2":"value2",
-"key3":"value3"
+  "key1":"value1",
+  "key2":"value2",
+  "key3":"value3"
 }
 ```
 
